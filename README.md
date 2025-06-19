@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ba942948-dce0-4bea-b7a0-8dc2f2d75caa" alt="Subtrak" width="1000">
+<img src="https://github.com/user-attachments/assets/ba942948-dce0-4bea-b7a0-8dc2f2d75caa" alt="Subtrak" width="900">
 </p>
 
 ---
@@ -69,16 +69,15 @@ Here is a preview of the interactive terminal UI during a scan:
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/SubTrak.git
+    git clone https://github.com/nahid0x1/SubTrak.git
     cd SubTrak
     ```
 
 2.  **Install Python Dependencies**
-    SubTrak requires a few Python libraries. You can install them using pip:
     ```bash
-    pip install aiohttp beautifulsoup4 PyYAML
+    pip3 install aiohttp beautifulsoup4 PyYAML
     ```
-    The script will notify you if a dependency is missing.
+
 
 3.  **Install External Tools (Optional)**
     For the best results with the `--endpoint` feature, install these popular Go tools:
@@ -212,7 +211,22 @@ SubTrak integrates a vast number of sources to ensure maximum discovery.
 `openssl_san`, `google`, `yahoo`, `bing`, `ask`, `baidu`, `netcraft`, `dnsdumpster_free`, `gau_wayback`, `gau_commoncrawl`, `gau_alienvault_otx`, `crtsh`, `certspotter_free`, `bufferover_free`, `alienvault`, `anubis`, `commoncrawl`, `digitorus`, `hackertarget`, `hudsonrock`, `rapiddns`, `sitedossier`, `threatcrowd`, `waybackarchive`, `threatminer`, `sublist3r`, `ctsearch`.
 
 
-## Acknowledgments
+## 🌟 Contributors
 
-- Developed with passion by **nahid0x1**.
-- Inspired by the open-source security community and the need for comprehensive, all-in-one enumeration tools.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0xraselrana"><img src="https://avatars.githubusercontent.com/u/77453792?v=4?s=100" width="100px;" alt="Md. Rasel Rana"/><br /><sub><b>Md. Rasel Rana</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/the5orcerer"><img src="https://avatars.githubusercontent.com/u/97868096?v=4?s=100" width="100px;" alt="Abu Hurayra"/><br /><sub><b>Abu Hurayra</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0xh7ml"><img src="https://avatars.githubusercontent.com/u/42938253?v=4?s=100" width="100px;" alt="Md Saikat"/><br /><sub><b>Md Saikat</b></sub></a></td>
+    </tr>
+
+  </tbody>
+</table>
+
+# Author
+- **GitHub**: [@nahid0x1](https://github.com/nahid0x1)
+- **Twitter**: [@nahid0x1](https://x.com/nahid0x1)
+- **Linkedin**: [@nahid0x1](https://www.linkedin.com/in/nahid0x1)
+- **Email**: [nahid0x1.official@gmail.com](mailto:nahid0x1.official@gmail.com)
