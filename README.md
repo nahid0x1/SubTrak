@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ba942948-dce0-4bea-b7a0-8dc2f2d75caa" alt="Subtrak" width="250">
+<img src="https://github.com/user-attachments/assets/ba942948-dce0-4bea-b7a0-8dc2f2d75caa" alt="Subtrak" width="1000">
 </p>
 
 ---
